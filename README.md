@@ -70,7 +70,7 @@ Logistic Regression was selected as the final model because it achieved the high
 
 Download the project from GitHub or clone it using Git.
 
-**GitHub Repository:** [Add your GitHub repository link here]
+**GitHub Repository:** [https://github.com/chhantyalshreya1-bot/student-dropout-prediction-using-streamlit]
 
 ### 2. Open the project folder in VS Code
 
