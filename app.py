@@ -13,7 +13,7 @@ with open('feature_columns.pkl', 'rb') as file:
 
 
 
-st.title("Student Dropout Predication")
+st.title("Student Dropout Prediction")
 st.write("Enter the student's information to predict the dropout status.")
 
 age= st.number_input(
