@@ -51,7 +51,7 @@ The following machine learning models were trained and compared:
 - Logistic Regression
 - Decision Tree
 - Random Forest
-- XGBoost
+
 
 Cross-validation and GridSearchCV were used for model evaluation and hyperparameter tuning.
 
